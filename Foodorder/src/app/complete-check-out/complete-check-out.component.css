@@ -1,0 +1,12 @@
+div{
+    height: 4rem;
+    width: 28rem;
+    border: solid;
+    border-radius: 22px;
+    color: white;
+    background-color: #ffbbbb;
+    justify-content: center;
+    display: flex;
+    margin: 14rem;
+    margin-left: 31rem;
+}
